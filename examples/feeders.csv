@@ -1,0 +1,11 @@
+name,length_m,load_kw,ib_a,voltage_v,phases,pf,efficiency,insulation,method,ambient_c,grouped,arrangement,runs,device_a,fault_ka,clearing_s,let_through_a2s,vd_limit_pct,start_multiplier,start_pf,start_vd_limit_pct
+MCC-1 incomer,35,250,,415,3,0.86,1.0,XLPE,E,40,3,tray,2,,36,0.3,,2.5,,,
+Chilled water pump 1,70,30,,415,3,0.86,0.93,XLPE,E,40,6,tray,1,,25,,400000,5,6.5,0.3,12
+Chilled water pump 2,75,30,,415,3,0.86,0.93,XLPE,E,40,6,tray,1,,25,,400000,5,6.5,0.3,12
+Cooling tower fan,110,15,,415,3,0.84,0.91,XLPE,E,45,6,tray,1,,25,,400000,5,6.5,0.3,12
+Air compressor,55,55,,415,3,0.87,0.94,XLPE,E,40,6,tray,1,,25,,400000,5,6.5,0.3,12
+Lighting DB-L1,60,12,,415,3,0.9,1.0,PVC,C,35,4,wall,1,,10,,150000,3,,,
+Lighting final circuit,40,1.8,,230,1,0.9,1.0,PVC,C,35,9,bunched,1,,6,,35000,3,,,
+Small power DB-P1,45,25,,415,3,0.85,1.0,PVC,C,35,4,wall,1,,10,,150000,4,,,
+Workshop socket ring,30,3.5,,230,1,0.9,1.0,PVC,C,35,9,bunched,1,,6,,35000,5,,,
+Welding outlet,50,20,,415,3,0.7,1.0,XLPE,E,40,6,tray,1,,25,,400000,5,,,
