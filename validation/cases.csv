@@ -1,0 +1,13 @@
+name,length_m,load_kw,ib_a,voltage_v,phases,pf,efficiency,insulation,method,ambient_c,grouped,arrangement,runs,device_a,fault_ka,clearing_s,vd_limit_pct,start_multiplier,start_pf,start_vd_limit_pct
+C01 heater,40,30,,415,3,1.0,1.0,XLPE,E,30,1,tray,1,,,,5,,,
+C02 pump motor,60,22,,415,3,0.85,0.92,PVC,C,40,3,wall,1,,,,5,,,
+C03 lighting 1ph,35,3,,230,1,0.9,1.0,PVC,C,30,1,wall,1,,,,3,,,
+C04 long feeder,180,45,,415,3,0.85,1.0,XLPE,E,30,1,tray,1,,,,5,,,
+C05 bunched DB,25,15,,415,3,0.9,1.0,PVC,C,45,6,bunched,1,,,,5,,,
+C06 parallel incomer,30,400,,415,3,0.9,1.0,XLPE,E,35,2,tray,2,,,,3,,,
+C07 sc governed,15,5,,415,3,0.9,1.0,PVC,C,30,1,wall,1,,10,0.1,5,,,
+C08 motor start,120,37,,415,3,0.86,0.93,XLPE,E,30,1,tray,1,,,,5,6,0.3,8
+C09 hot plant room,50,75,,415,3,0.9,1.0,XLPE,C,50,5,wall,1,,,,5,,,
+C10 ev charger 1ph,25,7,,230,1,0.95,1.0,XLPE,E,35,1,tray,1,,,,5,,,
+C11 given Ib,80,,150,415,3,0.85,1.0,PVC,E,30,3,tray,1,160,,,4,,,
+C12 compressor,90,110,,415,3,0.88,0.95,XLPE,E,45,4,tray,1,,25,0.2,5,,,
